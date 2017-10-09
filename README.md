@@ -11,6 +11,7 @@
 ## 综合(工具、框架、业务)类
 - [QQ天气H5-前端完整解析](https://github.com/Guocover/blog/issues/1)
 - [测试用例的那一回事](https://github.com/Guocover/blog/issues/3)
+- [浏览器进程、线程？傻傻分不清楚！](https://github.com/Guocover/blog/issues/7)
 
 ## 新技术
 - [WebAR实现简单版pokemon Go](https://github.com/Guocover/blog/issues/2)
